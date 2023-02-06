@@ -14,7 +14,7 @@ export default function App() {
 
       <View>
         <Button
-          title='Quản Lí'
+          title='Quản Lí abc'
         />
 
         <Button
